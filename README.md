@@ -2,6 +2,10 @@
 
 > My majestic Nuxt.js project
 
+#### Backend Link
+https://github.com/AbisachBerlin/node-ecommerce-backend
+
+
 ## Build Setup
 
 ```bash
